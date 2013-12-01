@@ -10,12 +10,10 @@ import re
 
 
 
-#url_base="http://www.skyscanner.fr/transport/vols/brus/casa/140102/tarifs-de-bruxelles-a-casablanca-en-janvier-2014.html?rtn=0"
 url_base="http://www.skyscanner.fr/"
 PatPrices=re.compile('<div class="mainquote-price big">(.*)</div>')
 PatFlights=re.compile('<span data-carrier-ids=".*">(.*)</span>')
-PatFlightsbis=re.compile('<img onerror.*alt="(.*)"/>')
-
+PatAirlines=re.compile('<div class="leg-airline">(.*)</div>')
 pattern=re.compile('<ul id="cbp-itineraries" class="day-list clearfix">(.*)</ul>')
 #route=[fromaeroport,toaeroport,fromcity,tocity]
 #date=[year,monthnumber, month,day]
@@ -42,11 +40,11 @@ def scrapAjaxWebpage(url):
 	#with open("dataAjax","r") as mydata:
 		#results=mydata.read()
 	prices=re.findall(PatPrices,html)
-	flights=re.findall(PatFlightsbis,html)
-	
-	print "routes : %r prices: %s " % (flights, prices)
+	#flights=re.findall(PatFlights,html)
+	airlines=re.findall(PatAirlines,html)
+	print "airlines : %r prices: %s " % (airlines, prices)
 	#print results
-	return (prices,flights)
+	return (airlines,prices)
 
 def scrap(depart,arrival):
 	url=url_base+"transport/vols/"+depart+"/"+arrival+"/"
@@ -74,15 +72,12 @@ def extract_data(soup):
 
 
 if __name__=="__main__":
-
+	
 	date=["2014","01","janvier","14"]
 	route=["cdg","cmn","paris","casablanca"]
 	urlreq=urlformatting(route, date)
-        url="http://www.skyscanner.fr/transport/vols/brus/casa/131214/tarifs-de-bruxelles-a-casablanca-en-decembre-2013.html?rtn=0"	
-	url1="http://www.skyscanner.net"
-	depart="cdg"
-	arrival="casa"
-	#scrapajax=scrapAjaxWebpage(url)
+	
+	scrapajax=scrapAjaxWebpage(urlreq)
 	#scrapit=scrap(depart, arrival)
 	#data=extract_data(scrapit)
 	#text=clean_text(url)
