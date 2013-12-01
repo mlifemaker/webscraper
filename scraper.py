@@ -6,16 +6,19 @@ from bs4 import BeautifulSoup
 import nltk
 import pickle
 import jabba_webkit as jw
+import re
 
-url_base="http://skyscanner.fr/"
 
+web_page="http://skyscanner.fr/"
+pattern=re.compile('<div class="mainquote-price big">(.*)</div>')
 def scrapAjaxWebpage(url):
 	
 	html=(jw.get_page(url)).encode('ascii','ignore')
 	with open("dataAjax.txt","w") as ajaxdata:
 		ajaxdata.write(html)
-	print html
-	return html
+	result=re.findall(pattern,html)
+	print "prices of this route:",result
+	return result
 def scrap(depart,arrival):
 	url=url_base+"transport/vols/"+depart+"/"+arrival+"/"
 	print(url)
