@@ -14,7 +14,8 @@ url_base="http://www.skyscanner.fr/"
 PatPrices=re.compile('<div class="mainquote-price big">(.*)</div>')
 PatFlights=re.compile('<span data-carrier-ids=".*">(.*)</span>')
 PatAirlines=re.compile('<div class="leg-airline">(.*)</div>')
-pattern=re.compile('<ul id="cbp-itineraries" class="day-list clearfix">(.*)</ul>')
+PatFlightTime=re.compile('<div class="leg-flight-time">(.*)</div>')
+
 #route=[fromaeroport,toaeroport,fromcity,tocity]
 #date=[year,monthnumber, month,day]
 
@@ -42,7 +43,16 @@ def scrapAjaxWebpage(url):
 	prices=re.findall(PatPrices,html)
 	#flights=re.findall(PatFlights,html)
 	airlines=re.findall(PatAirlines,html)
-	print "airlines : %r prices: %s " % (airlines, prices)
+	times=re.findall(PatFlightTime,html)
+	departuretimes=[]
+	arrivaltimes=[]
+	for i in range(len(times)):
+		if i%2==0:
+			departuretimes.append(times[i])
+
+		else:
+			arrivaltimes.append(times[i])
+	print "airlines : %r prices: %s departure times: %s arrival times: % s" % (airlines, prices, departuretimes, arrivaltimes)
 	#print results
 	return (airlines,prices)
 
