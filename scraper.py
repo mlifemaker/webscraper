@@ -39,8 +39,6 @@ def scrapAjaxWebpage(url):
 	#prices=[]
 	#with open("dataAjax","r") as mydata:
 		#results=mydata.read()
-	currency=re.findall(PatCurrency,html)
-	print currency
 	prices=re.findall(PatPrices,html)
 	#flights=re.findall(PatFlights,html)
 	airlines=re.findall(PatAirlines,html)
@@ -57,7 +55,7 @@ def scrapAjaxWebpage(url):
 	
 	for i in range(len(airlines)):
 		FlightResults["flight"+str(i+1)]=[]
-		FlightResults["flight"+str(i+1)].append(airlines[i])
+		FlightResults["flight"+str(i+1)].append(nltk.clean_html(airlines[i]))
 		FlightResults["flight"+str(i+1)].append(str(prices[i])+" EUR")
 		FlightResults["flight"+str(i+1)].append(departuretimes[i])
 		FlightResults["flight"+str(i+1)].append(arrivaltimes[i])
@@ -100,7 +98,7 @@ def extract_data(soup):
 if __name__=="__main__":
 	
 	date=["2014","01","janvier","14"]
-	route=["cdg","cmn","paris","casablanca"]
+	route=["cdg","rba","paris","rabat"]
 	urlreq=urlformatting(route, date)
 	
 	scrapajax=scrapAjaxWebpage(urlreq)
