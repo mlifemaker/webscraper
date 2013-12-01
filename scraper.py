@@ -54,11 +54,11 @@ def scrapAjaxWebpage(url):
 	FlightResults={}
 	
 	for i in range(len(airlines)):
-		FlightResults["flight"+str(i+1)]=[]
-		FlightResults["flight"+str(i+1)].append(nltk.clean_html(airlines[i]))
-		FlightResults["flight"+str(i+1)].append(str(prices[i])+" EUR")
-		FlightResults["flight"+str(i+1)].append(departuretimes[i])
-		FlightResults["flight"+str(i+1)].append(arrivaltimes[i])
+		FlightResults["flight"+str(i+1)]={}
+		FlightResults["flight"+str(i+1)]["airline"]=nltk.clean_html(airlines[i])
+		FlightResults["flight"+str(i+1)]["price"]=str(prices[i])+" EUR"
+		FlightResults["flight"+str(i+1)]["departure time"]=departuretimes[i]
+		FlightResults["flight"+str(i+1)]["arrival time"]=arrivaltimes[i]
 		
 	
 	#print "airlines : %r prices: %s departure times: %s arrival times: % s" % (airlines, prices, departuretimes, arrivaltimes)
