@@ -1,0 +1,3017 @@
+<!DOCTYPE html><html class="skyscanner  touch" lang="fr"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=10">
+    <title>Vol Paris Charles-de-Gaulle Casablanca Mohamed V. au meilleur prix | Skyscanner</title>
+
+    <link rel="stylesheet" type="text/css" href="http://css.skyscnr.com//framework/cache/css/core_53896.css">
+    
+    
+    <link rel="stylesheet" type="text/css" href="http://css.skyscnr.com//framework/cache/css/day_53896.css">
+    
+
+
+    <!-- media queries css -->
+    <link rel="stylesheet" type="text/css" href="http://css.skyscnr.com//framework/cache/css/media_53896.css">
+    
+    
+
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="google-site-verification" content="BBFLmd-GH-IzWdbHNE5ENwlPYvAftg7bwYM5ivMOYS4">
+<meta name="y_key" content="f1ec914f8238a3de">
+
+<meta name="og:title" content="Skyscanner | Trouvez le vol pas cher, conomisez temps et argent!">
+<meta name="og:url" content="http://www.skyscanner.fr/?utm_medium=social&amp;utm_campaign=gigya&amp;utm_source=facebook_fr">
+<meta name="og:image" content="http://www.skyscanner.fr/images/opengraph.png">
+<meta name="og:description" content="Skyscanner compare gratuitement plus de 1 000 compagnies ariennes dans le monde. Il recherche rapidement les vols les plus conomiques pour vous pargner temps et argent.">
+<meta name="og:type" content="product">
+
+<script type="text/javascript" async="" src="http://asset0.zendesk.com/external/zenbox/v2.4/zenbox.js"></script><script type="text/javascript" async="">    var i = document.createElement('img');    i.setAttribute('alt', '');    i.setAttribute('height', '1');    i.setAttribute('width', '1');    i.setAttribute('style', 'display: none;');    i.setAttribute('src', 'https://cm.g.doubleclick.net/pixel?google_nid=sojern__adx_open_bidder_seat&google_hm=IRqVCVq0EeOE1h6EMgxi7A&google_cm&google_sc');    document.body.appendChild(i);</script><script type="text/javascript" async="">    var i = document.createElement('img');    i.setAttribute('alt', '');    i.setAttribute('height', '1');    i.setAttribute('width', '1');    i.setAttribute('style', 'display: none;');    i.setAttribute('src', 'https://sb.scorecardresearch.com/p?c1=8&c2=6035672&c3=102&c4=&c5=&c6=&c10=');    document.body.appendChild(i);</script><script type="text/javascript" async="">    var i = document.createElement('img');    i.setAttribute('alt', '');    i.setAttribute('height', '1');    i.setAttribute('width', '1');    i.setAttribute('style', 'display: none;');    i.setAttribute('src', 'https://d.turn.com/r/dd/id/L21rdC8xMjgvY2lkLzE2MzQ2OTk5L3QvMg/dpuid/211a9509-5ab4-11e3-84d6-1e84320c62ec/url/https://pixel.sojern.com/idSync/Turn?exchangeProfileId=$!{TURN_UUID}');    document.body.appendChild(i);</script><script async="true" type="text/javascript" src="http://widget.criteo.com/event?a=3491&amp;v=2.0.0&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvs%26din%3D2014-01-14%26dout%3D2014-01-15&amp;p2=e%3Dvp%26p%3DCDG_CMN&amp;p3=e%3Ddis" data-owner="criteo-tag"></script><script type="text/javascript" src="//pix.impdesk.com/pixel.js?id=252"></script><script type="text/javascript" src="//id.impressiondesk.com/px?id=66681&amp;seg=622001&amp;t=1"></script><script type="text/javascript" src="//pix.impdesk.com/pixel.js?ud2=eur&amp;ud3=CDG&amp;ud6=CMN&amp;ud7=15012014&amp;ud8=1&amp;ud9=Economy&amp;id=200"></script><script type="text/javascript" src="https://pixel.sojern.com/partner/lq6MFTSoyPN6xuPc/fs?fa1=CDG&amp;fa2=CMN&amp;fd1=2014-01-14&amp;fd2=2014-01-15&amp;t=1&amp;fc=Economy&amp;fn1=fr"></script><script type="text/javascript" src="//tag.yieldoptimizer.com/ps/ps?t=s&amp;p=1488&amp;oap=CDG&amp;dap=CMN&amp;dpdt=2014-01-14&amp;rdt=2014-01-15&amp;tvlcl=Economy&amp;nopas=1&amp;pg=sft"></script><script type="text/javascript" async="" src="http://www.skyscanner.fr/framework/cache/js/common_async_53896.js"></script><script src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="http://www.skyscanner.fr/framework/cache/js/tealium_53896.js"></script><script type="text/javascript" async="" src="http://www.skyscanner.fr/userorchestration/resources/scripts/skyscanner.user.track.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
+    if (typeof Skyscanner === "undefined") {
+        Skyscanner = {};
+    }
+    Skyscanner.ogtitle = "Skyscanner | Trouvez le vol pas cher, conomisez temps et argent!";
+    Skyscanner.ogurl = "http://www.skyscanner.fr/?utm_medium=social&amp;utm_campaign=gigya&amp;utm_source=facebook_fr";
+    Skyscanner.ogimage = "http://www.skyscanner.fr/images/opengraph.png";
+    Skyscanner.ogdescription = "Skyscanner compare gratuitement plus de 1 000 compagnies ariennes dans le monde. Il recherche rapidement les vols les plus conomiques pour vous pargner temps et argent.";
+</script>
+    <meta name="apple-itunes-app" content="app-id=415458524">
+
+    <script type="text/javascript">
+        if(typeof Skyscanner === "undefined") {
+            Skyscanner = { };
+        }
+        SS = {
+            data: {},
+            util: {},
+            services: {},
+            lookupdata: {}
+        };
+
+            Skyscanner.scaffoldversion = '53896';
+            Skyscanner.lang = 'fr';
+            Skyscanner.ucy = 'FR';
+            Skyscanner.userCountry = 'FR';
+            Skyscanner.market = 'FR';
+            Skyscanner.ccy = 'EUR';
+            Skyscanner.ancillary = 'airli';
+            Skyscanner.view = 'Flights';
+            Skyscanner.view_action = 'DayViewOneWay';
+            Skyscanner.isDebugMode = false;
+            Skyscanner.funnelDebugParameters = '';
+            Skyscanner.CurrentDomainIsMainDomain = false;
+            Skyscanner.constants = {"culture":"fr-FR","GAWebPropertyId":"UA-XXXXXX-YY","ancillaryConfiguration":[{"holidaysServiceURL":"http://holidays.skyscanner.net/external/destinations.ashx","validHolidayDepartureBreakdownCodes":["BELF:BFS~BHD","GLAS:GLA~PIK"],"validHolidayDepartureCodes":["LGW","LTN","STN","LHR","LCY","LON","MAN","LPL","BLK","BHX","EMA","GLA","EDI","PIK","ABZ","BRS","CWL","EXT","NCL","MME","HUY","LBA","DSA","SOU","BOH","NWI","BFS","BHD"],"name":"holi_","remoteUrl":"http://holidays.skyscanner.net/","remotePage":"resultsv2_ss.aspx","localUrl":"/vacances.html","seoMarkets":null,"seoLanguages":null},{"name":"hotl2","remoteUrl":"http://hotels.skyscanner.com/","remotePage":"SearchResults.aspx","localUrl":"/hotels.html","seoMarkets":["UK","FR","DE","ES","IT","SE","NO","DK","RU","US"],"seoLanguages":["en","fr","de","es","it","sv","no","da","ru"]},{"name":"skhot","remoteUrl":"/hotels.html","remotePage":"","localUrl":"/hotels.html","seoMarkets":null,"seoLanguages":null},{"name":"carhi","remoteUrl":"/car-hire","remotePage":null,"localUrl":"/car-hire","seoMarkets":null,"seoLanguages":null},{"name":"insur","remoteUrl":"/assurance.html","remotePage":null,"localUrl":"/assurance.html","seoMarkets":null,"seoLanguages":null}],"availableAncillaries":["airli","hotl2","carhi"],"tlds":[{"Key":"IE","Value":"www.skyscanner.ie"},{"Key":"DE","Value":"www.skyscanner.de"},{"Key":"FR","Value":"www.skyscanner.fr"},{"Key":"ES","Value":"www.skyscanner.es"},{"Key":"IT","Value":"www.skyscanner.it"},{"Key":"NL","Value":"www.skyscanner.nl"},{"Key":"PL","Value":"www.skyscanner.pl"},{"Key":"TR","Value":"www.skyscanner.com.tr"},{"Key":"RU","Value":"www.skyscanner.ru"},{"Key":"JP","Value":"www.skyscanner.jp"},{"Key":"CZ","Value":"www.skyscanner.cz"},{"Key":"TW","Value":"www.skyscanner.com.tw"},{"Key":"RO","Value":"www.skyscanner.ro"},{"Key":"DK","Value":"www.skyscanner.dk"},{"Key":"NO","Value":"www.skyscanner.no"},{"Key":"GR","Value":"gr.skyscanner.com"},{"Key":"KR","Value":"www.skyscanner.co.kr"},{"Key":"PT","Value":"www.skyscanner.pt"},{"Key":"SE","Value":"www.skyscanner.se"},{"Key":"CN","Value":"www.tianxun.cn"},{"Key":"US","Value":"www.skyscanner.com"},{"Key":"BR","Value":"www.skyscanner.com.br"},{"Key":"IN","Value":"www.skyscanner.co.in"},{"Key":"AT","Value":"www.skyscanner.at"},{"Key":"CH","Value":"www.skyscanner.ch"},{"Key":"FI","Value":"www.skyscanner.fi"},{"Key":"HU","Value":"www.skyscanner.hu"},{"Key":"UA","Value":"www.skyscanner.com.ua"},{"Key":"AU","Value":"www.skyscanner.com.au"},{"Key":"CA","Value":"www.skyscanner.ca"},{"Key":"VN","Value":"www.skyscanner.com.vn"},{"Key":"TH","Value":"www.skyscanner.co.th"},{"Key":"SG","Value":"www.skyscanner.com.sg"},{"Key":"PH","Value":"www.skyscanner.com.ph"},{"Key":"NZ","Value":"www.skyscanner.co.nz"},{"Key":"MY","Value":"www.skyscanner.com.my"},{"Key":"ID","Value":"www.skyscanner.co.id"},{"Key":"HK","Value":"www.skyscanner.com.hk"},{"Key":"GG","Value":"www.skyscanner.gg"},{"Key":"GB","Value":"www.skyscanner.net"}],"nonLatinLanguages":["gr","ja","ko","zh","zw","th","ru","uk","vi"],"jqueryRegional":{"closeText":"","prevText":"","nextText":"","currentText":"","monthNames":["janvier","fvrier","mars","avril","mai","juin","juillet","aot","septembre","octobre","novembre","dcembre"],"monthNamesShort":["jan","fv","mar","avr","mai","jun","jui","ao","sep","oct","nov","dc"],"dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim.","lun.","mar.","mer.","jeu.","ven.","sam."],"dayNamesMin":["Di","Lu","Ma","Me","Je","Ve","Sa"],"weekHeader":"","dateFormat":"dd/MM/yy","isRTL":false,"showMonthAfterYear":false,"yearSuffix":""}};
+            Skyscanner.ancillaryRootUrlOverrides = {};
+            Skyscanner.compareUnitsUnsupportedBrowsersRegExp = 'iphone|ipod|android.*mobile|windows phone|blackberry|opera';
+            Skyscanner.gigyakey = '2_Kj2nkq5MI1WOWH5Nd8JIeDHImYQ_dHEqB7RCumabjZhCaUptwpnTViSJmHqn28ti';
+            Skyscanner.twittertitle = "@skyscanner_FR : trouve gratuitement #vols pas chers  n'importe quel pays!";
+            Skyscanner.twitterurl = 'www.skyscanner.fr?utm_medium=social&amp;utm_campaign=gigya&amp;utm_source=twitter_fr';
+            if(typeof twitterUA === "undefined") { twitterUA = { }; }
+            Skyscanner.likeoptions = {"likebuttons": [{ "provider": "facebook-like", "enableCount": "true" }]};
+            Skyscanner.shareoptions = {"sharebuttons": [{"provider": "facebook", "iconOnly": "true", "enableCount": "false", "url": "www.skyscanner.fr?utm_medium=social&utm_campaign=gigya&utm_source=facebook_fr"},{"provider": "linkedin", "iconOnly": "true", "enableCount": "false", "url": "www.skyscanner.fr?utm_medium=social&utm_campaign=gigya&utm_source=linkedin_fr"},{"provider": "twitter", "iconOnly": "true", "enableCount": "false", "url": "www.skyscanner.fr?utm_medium=social&utm_campaign=gigya&utm_source=twitter_fr", "userAction": twitterUA },{ "provider": "email", "iconOnly": "true", "enableCount": "false" }, { "provider": "share", "enableCount": "false" }]};
+            Skyscanner.tripPlanningEnabled = true;
+            Skyscanner.tripPlanningCulture = "fr-FR";
+            Skyscanner.userAuthenticationEnabled = true;
+
+    
+    Skyscanner.includeNonGuaranteedTransfers = false;
+
+    </script>
+    <script type="text/javascript">
+    if(typeof Skyscanner.Common === "undefined") {
+        Skyscanner.Common = { };
+    }
+    var _gaq = _gaq || [];
+    var gaSt = true;
+    var gaFt = true;
+    
+    Skyscanner.Common.pageLoadedGATracking = function(gaPageView) {
+    
+        
+        _gaq.push(['gaFt._setAccount', 'UA-246109-1']);
+        _gaq.push(['gaFt._setCustomVar', 1, 'WebNode', 'PROD931', 2]);
+        _gaq.push(['gaFt._setCustomVar', 2, 'Release', '53896', 2]);
+        
+            _gaq.push( ['gaFt._setCustomVar', 5, 'ABTestSession', 'FunnelBA-B', 2] );
+
+        _gaq.push(['_setDomainName', 'skyscanner.fr']);
+        _gaq.push(['_setAllowLinker', true]);
+
+        if (gaPageView && gaPageView != '')
+        {
+            _gaq.push(['gaFt._trackPageview', gaPageView]);
+        }
+        else
+        {
+            _gaq.push(['gaFt._trackPageview']);
+        }
+        
+        
+            _gaq.push(['gaSt._setAccount', 'UA-246109-6']);
+        _gaq.push(['gaSt._setCustomVar', 1, 'WebNode', 'PROD931', 2]);
+        _gaq.push(['gaSt._setCustomVar', 2, 'Release', '53896', 2]);
+        
+            _gaq.push( ['gaSt._setCustomVar', 5, 'ABTestSession', 'FunnelBA-B', 2] );
+        _gaq.push(['_setDomainName', 'skyscanner.fr']);
+        _gaq.push(['_setAllowLinker', true]);
+
+        if (gaPageView && gaPageView != '')
+        {
+            _gaq.push(['gaSt._trackPageview', gaPageView]);
+        }
+        else
+        {
+            _gaq.push(['gaSt._trackPageview']);
+        }
+    };
+    
+         Skyscanner.Common.pageLoadedGATracking('/day-view/cdg/cmn/');
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+    
+<script type="text/javascript">
+if(typeof Skyscanner.Common === "undefined") {
+    Skyscanner.Common = { };
+}
+var _gaq = _gaq || [];
+ 
+Skyscanner.Common.pageLoadedGATracking = function(gaPageView) {
+    ga('create', 'UA-246109-81', {
+        'cookieDomain': 'skyscanner.net',
+        'allowLinker': true
+        });
+
+    // load the cross-domain linker plugin
+    ga('require', 'linker');
+
+    var ga_skyscannerDomains = ["skyscanner.net","skyscanneraffiliate.net","hotels.skyscanner.com","redirect.datahc.com","tianxun.hotelscombined.cn","hotels.skyscanner.co.kr","www.skyscanner.ie","www.skyscanner.de","www.skyscanner.fr","www.skyscanner.es","www.skyscanner.it","www.skyscanner.nl","www.skyscanner.pl","www.skyscanner.com.tr","www.skyscanner.ru","www.skyscanner.jp","www.skyscanner.cz","www.skyscanner.com.tw","www.skyscanner.ro","www.skyscanner.dk","www.skyscanner.no","gr.skyscanner.com","www.skyscanner.co.kr","www.skyscanner.pt","www.skyscanner.se","www.tianxun.cn","www.skyscanner.com","www.skyscanner.com.br","www.skyscanner.co.in","www.skyscanner.at","www.skyscanner.ch","www.skyscanner.fi","www.skyscanner.hu","www.skyscanner.com.ua","www.skyscanner.com.au","www.skyscanner.ca","www.skyscanner.com.vn","www.skyscanner.co.th","www.skyscanner.com.sg","www.skyscanner.com.ph","www.skyscanner.co.nz","www.skyscanner.com.my","www.skyscanner.co.id","www.skyscanner.com.hk","www.skyscanner.gg"];
+    
+    // set the domains to autoLink
+    ga('linker:autoLink', ga_skyscannerDomains);
+
+    ga('set', 'dimension1', 'PROD931');
+    ga('set', 'dimension2', 'POD_UNKNOWN');
+    ga('set', 'dimension3', '53896');
+    ga('set', 'dimension5', 'fr');
+         ga('set', 'dimension7', 'FunnelBA-B');
+    var viewport = Skyscanner.Common.getViewport();
+    ga('set', 'dimension10', viewport.width + "x" + viewport.height);
+    
+    Skyscanner.Common.trackPageView(gaPageView);
+};
+
+Skyscanner.Common.trackPageView = function(gaPageView) {
+    
+    var ga_l = document.location;
+    var ga_p = ga_l.pathname;
+    var ga_s = ga_l.search;
+    var ga_paramKey = (document.location.search.indexOf('?') > -1 ? '&' : '?');
+    var ga_pageName = ga_p + ga_s + ga_paramKey + 'gaPage=[' + gaPageView + ']';
+
+    ga('send', 'pageview', ga_pageName);
+};
+
+Skyscanner.Common.getViewport = function() {
+    var height, width;
+    
+    if (typeof window.innerWidth !== 'undefined') {
+        width = window.innerWidth;
+        height = window.innerHeight;
+    }
+    else if (typeof document.documentElement !== 'undefined' 
+            && typeof document.documentElement.clientWidth !== 'undefined' 
+            && document.documentElement.clientWidth != 0) {
+        width = document.documentElement.clientWidth;
+        height = document.documentElement.clientHeight;
+    }
+    else {
+        width = document.getElementsByTagName('body')[0].clientWidth;
+        height = document.getElementsByTagName('body')[0].clientHeight;
+    }
+    return { 'width' : width, 'height' : height };
+};
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments);
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+      
+Skyscanner.Common.pageLoadedGATracking('/day-view/cdg/cmn/');
+;
+</script>
+
+    
+    <script type="text/javascript">
+        (function () {
+            var an = document.createElement('script');
+            an.type = 'text/javascript';
+            an.async = true;
+            an.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + document.location.host + '/userorchestration/resources/scripts/skyscanner.user.track.min.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(an, s);
+        })();
+    </script>
+
+    <!--[if IE 8]>
+        <script type="text/javascript"  src="/framework/cache/js/ie8_additions_53896.js" ></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+         <script type="text/javascript"  src="/framework/cache/js/ie_lt8_additions_53896.js" ></script>
+    <![endif]-->
+    
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script src="https://secure.skyscanner.net/accessToken?callback=Skyscanner.Auth.Jsonp.callback"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.84.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_84"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.108.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_108"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.421.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_421"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.423.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_423"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.424.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_424"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.658.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_658"></script><script type="text/javascript" src="//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.662.js?utv=ut4.009.201311221410" id="utag_skyscanner.flights-main_662"></script><script type="text/javascript" src="//static.criteo.net/js/ld/ld.js"></script><script type="text/javascript" async="" src="https://pixel.sojern.com/pixel/partner/lq6MFTSoyPN6xuPc/fs?t=1&amp;fa2=CMN&amp;fa1=CDG&amp;fd2=2014-01-15&amp;fn1=fr&amp;fc=Economy&amp;fd1=2014-01-14"></script></head>
+<body id="category-flights" class="lang-fr page-day action-dayviewoneway" style="">
+    <noscript>
+        &lt;div class="no-js-msg"&gt;
+            &lt;p&gt;Skyscanner n&amp;#233;cessite JavaScript. Il semble que votre navigateur ne prend pas en charge JavaScript ou que celui-ci est d&amp;#233;sactiv&amp;#233;. Veuillez r&amp;#233;essayer &amp;#224; laide du support JavaScript.&lt;/p&gt;
+        &lt;/div&gt;
+    </noscript>
+    <!--[if lte IE 6]>
+    <script type="text/javascript"  src="/framework/cache/js/ie6_chromeframeprompt_53896.js" ></script>
+
+        <div id="chrome-frame-message-container">
+	<div id="chrome-frame-message" class="clearfix">
+		<a onclick="Skyscanner.ChromeFramePrompt.gcfMessageHide();" href="#" class="close-message">fermer</a>
+		<p>Il semble que vous utilisez Internet Explorer 6 (IE6). Skyscanner a une meilleure apparence et fonctionne plus rapidement avec <a href="http://google.com/chromeframe" title="http://google.com/chromeframe" onclick="return Skyscanner.ChromeFramePrompt.prototype.gcfLoadPlugin('http://google.com/chromeframe');">Google Chrome Frame Plugin pour IE6</a>. <a href="http://google.com/chromeframe" title="http://google.com/chromeframe"onclick="return Skyscanner.ChromeFramePrompt.prototype.gcfLoadPlugin('http://google.com/chromeframe');">Cliquez ici</a> pour l'installer en quelques secondes!</p>		
+	</div>
+</div>
+    <![endif]-->
+    <div id="pagewrap" class="clearfix">
+        <h1 id="h1-heading">Vol Paris Charles-de-Gaulle Casablanca Mohamed V. au meilleur prix | Skyscanner</h1>
+        
+<header id="header">
+    <div class="wrap clearfix">
+        <div id="identity">
+            <a href="/" title="Vols pas chers avec Skyscanner"><span>Vols pas chers avec Skyscanner</span></a>
+            <span id="current-category">vols</span>
+        </div>
+        <div id="secondary-nav">
+            <ul class="clearfix">
+                    <li><a href="/actualites/">L'actualit du voyage</a></li>
+                <li><a href="http://www.skyscanner.net/jobs">Emplois</a></li>
+                <li><a href="/aboutskyscanner.aspx">A propos de Skyscanner</a></li>
+                <li id="ss-header-links-faq" class=""><a href="https://aide.skyscanner.fr">FAQ</a></li>
+            <li class="login-button last" style=""><a href="#">Se connecter</a></li><li class="account-button last" style="display: none; "><a href="#">Compte</a></li></ul>
+        </div>
+        <div id="culture-info-container" class="clearfix">
+            <ul id="culture-info" class="theme-dark">
+                <li id="current-user-country">
+                    <img src="http://images.skyscnr.com/images/country/flag/small/fr.png" alt="France" title="FR">
+                </li>
+                <li id="current-user-lang"><span class="language-name">Franais</span> (FR)</li>
+                <li id="current-user-currency"><span class="currency-name">EUR - </span></li>
+                <li id="change-culture-info"><span class="change-button">Modifier<span class="toggle-indicator"></span></span></li>
+            </ul>
+        </div>
+        <nav>
+            <button id="nav-toggle" class="asian-lang-font-reset" title="Menu Navigation"><span>menu</span></button>
+            <div id="nav-container">
+                <ul id="main-nav" class="clearfix">
+                            <li class="item-1"><a id="airli" href="/">vols</a></li>
+                            <li class="item-2"><a id="hotl2" href="http://hotels.skyscanner.com/SearchResults.aspx?anccat=hotl2&amp;s-ucy=FR&amp;currencyCode=EUR&amp;languageCode=fr&amp;Rooms=1&amp;Adults=1&amp;checkin=2014-01-14&amp;s-f_odate=140114&amp;checkout=2014-01-21&amp;s-f_rtn=0&amp;s-f_oplace=CDG&amp;fileName=Casablanca_Mohamed V.&amp;s-f_iplace=CMN">htels</a></li>
+                            <li class="item-3"><a id="carhi" href="/car-hire?pick_up=CMN&amp;pick_up_date=2014-01-14">location de voiture</a></li>
+                </ul>
+            </div>
+                <ul id="trip-planning-nav">
+                    <li><a id="history-toggle" title="Recherches rcentes" class="button-toggle-trip-planning-container"><span class="hide">Recherches rcentes</span></a></li>
+                </ul>
+        </nav>
+    </div>
+</header>
+ 
+        <!-- START Content -->
+        <div id="container-trip-planning-refactor" class="trip-planning hidden">
+        </div>
+        <div id="content-wrap" class="wrap clearfix">
+            
+            
+
+
+
+
+
+
+
+
+
+
+<div id="content">
+    
+<nav id="breadcrumbs">
+	
+	<p>
+			<a class="breadcrumb-home" title="Accueil" href="/">
+			    <span class="breadcrumb-home-icon"></span>
+                <span>Accueil</span>
+			</a>
+				<span class="separator">&gt;</span>
+                    <a title="Slectionner la destination" href="/transport/vols/cdg/ma/janvier-2014/vols-les-moins-chers-de-paris-charles-de-gaulle-a-maroc-en-janvier-2014.html">Slectionner la destination</a>
+				<span class="separator">&gt;</span>
+                    <a title="Slectionner les dates" href="/transport/vols/cdg/cmn/vols-pas-chers-de-paris-charles-de-gaulle-a-casablanca-mohamed-v%252e.html?oym=1401">Slectionner les dates</a>
+				<span class="separator">&gt;</span>
+Slectionner les vols	</p>
+</nav>
+    <div id="route-info" class="clearfix">
+    
+    <h2><strong>Paris Charles-de-Gaulle</strong> <span class="route-code">(CDG)</span> <span class="route-separator"></span> <strong>Casablanca Mohamed V.</strong> <span class="route-code">(CMN)</span>
+    </h2>
+    <p class="route-info-dates">
+        mar. 14 janv.
+    </p>
+    <div id="route-info-passenger-info" class="passenger-info clearfix">
+    <p class="passenger-adult"> <span class="hide">Adultes</span> x 1</p></div>
+    <a href="#" id="toggle-search-button">Modifier la recherche</a>
+</div>
+
+	<div id="social-buttons" class="clearfix">
+            <div id="share-buttons"></div>
+                <div id="like-buttons"></div>
+	</div>
+
+           
+<section id="search-controls" class="theme-dark hide">
+    <h2 class="hide">Rechercher</h2>
+<form action="/r/Search/" class="clearfix" id="search-controls-form" method="post">        <span id="sc-button-close"><span class="hide">close</span></span>
+        <div class="row">
+            <div class="two-col-layout" id="departure">
+                <label for="departure-input">De</label>
+                <input name="departure-input" id="departure-input" tabindex="1" type="text" list="departure-list" autocomplete="off" placeholder="saisir un pays, une ville ou un aroport" autocorrect="off" autocapitalize="off" spellcheck="false">
+                <span id="departure-input-helper" class="input-helper">FR</span>
+            </div>
+            <span id="controls-swap" title="Cliquez ici pour changer les endroits">
+            <span class="hidden">Cliquez ici pour changer les endroits</span> 
+        </span>
+            <div class="two-col-layout" id="destination">
+                    <span id="map-anchor"><a href="/carte-vols-pas-chers">carte </a></span>
+                <label for="destination-input"></label>
+                <input name="destination-input" id="destination-input" tabindex="2" type="text" list="destination-list" autocomplete="off" placeholder="saisir un pays, une ville ou un aroport" autocorrect="off" autocapitalize="off" spellcheck="false">
+                <span id="destination-input-helper" class="input-helper">MA</span>
+                <div id="prefer-directs-toggle" class="clearfix">
+                    <input type="checkbox" tabindex="3" name="prefer-directs" id="prefer-directs-input">
+                    <label for="prefer-directs-input">Prfrer les vols directs</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div id="journey-details">
+                <div id="journey-type-toggle" class="clearfix">
+                    <input type="radio" tabindex="4" value="0" name="journey-type" id="journey-type-return">
+                    <label for="journey-type-return">aller retour</label>
+                    <input type="radio" tabindex="4" value="1" name="journey-type" id="journey-type-oneway" checked="checked">
+                    <label for="journey-type-oneway">aller simple</label>
+                </div>
+                <div id="journey-date-container" class="clearfix">
+                    <p class="label">dpart</p>
+                    <div class="journey-date">
+                        <label for="departure-date-calendar" class="hide">Date de dpart</label>
+                        <input name="departure-date-calendar" id="departure-date-calendar" tabindex="5" class="datepicker" autocomplete="off" type="text" placeholder="Date de dpart">
+                        <span id="depart-date-desc" class="label">mardi 14 janvier 2014</span>
+                    </div>
+                    <div class="journey-date journey-date-return">
+                        <label for="return-date-calendar" class="hide">Date de retour</label>
+                        <input name="return-date-calendar" id="return-date-calendar" class="datepicker readonly" tabindex="6" autocomplete="off" type="text" placeholder="Date de retour" readonly="" disabled="">
+                        <span id="return-date-desc" class="label"></span>
+                    </div>
+                </div>
+            </div>
+            <div id="cabin-class-passenger-info-container" class="clearfix">
+                <div id="passenger-container" class="clearfix">
+                    <div id="passenger-number-container" class="clearfix">
+                        <p class="label">Voyageurs</p>
+                        <div class="passenger-info">
+                            <span class="passenger-adult"><input type="number" pattern="\d+" tabindex="7" maxlength="1" value="1" id="passenger-info-adult"></span>
+                            <label for="passenger-info-adult">+12 ans</label>
+                        </div>
+                        <div class="passenger-info">
+                            <span class="passenger-child"><input type="number" pattern="\d+" tabindex="8" maxlength="1" value="0" id="passenger-info-child"></span>
+                            <label for="passenger-info-child">-12 ans</label>
+                        </div>
+                        <div class="passenger-info  passenger-info-last">
+                            <span class="passenger-infant"><input type="number" pattern="\d+" tabindex="9" maxlength="1" value="0" id="passenger-info-infant"></span>
+                            <label for="passenger-info-infant">-2 ans</label>
+                        </div>
+                    </div>
+                </div>
+                <div id="cabin-class-container" class="clearfix">
+                    <p class="label">Classe de cabine</p>
+                    <select id="cabin-class" tabindex="10">
+                        <option value="Economy">conomique</option>
+                        <option value="PremiumEconomy">co. Suprieure</option>
+                        <option value="Business">Affaires</option>
+                        <option value="First">Premire</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div id="search-ancillaries" class="row last clearfix">
+            <div id="search-controls-container">
+                <button tabindex="20" type="submit" id="search-controls-button" class="large-button">
+                    <span class="button-text">Rechercher</span>
+                    <span class="button-spinner">&nbsp;</span>
+                </button>
+            </div>
+        </div>
+</form></section>
+
+<script>
+         
+        Skyscanner.funnelConfiguration = {
+            'wy': "0",
+            'from': "CDG",
+            'to': "CMN",
+            'oym': "1401",
+            'iym':"",
+            'oday':"14",
+            'iday':"",
+            'fromCy':"FR",
+            'toCy' : "MA",
+            'rtn' : false
+        };
+
+</script>
+
+
+    <div id="content-main" class="widget">
+        <section id="day-section" class="day-content">
+            <header class="clearfix bags">
+                <button id="mini-price-alerts-button" class="price-alerts-mini" title="Crer une alerte prix">
+                    <span class="visually-hidden">Crer une alerte prix</span>
+                </button>
+                <div id="results-info-header" class="header-info clearfix"><div class="header-info-cabinclass"><em>Classe conomique</em></div>
+
+    <div class="header-info-bestprice"><em>Meilleur prix <button class="price" title="Afficher le meilleur prix (supprime tous les filtres et options de tri)">60 </button></em></div>
+</div>
+                <div class="day-progress-meter clearfix hidden" id="progress-meter"><div class="day-progress-bar"><span class="visually-hidden">Searching...</span></div>
+<div class="day-progress-status">
+    <div class="day-progress-status-wrapper">
+        <span class="day-progress-current">Recherche en cours ...</span>
+        <span class="day-progress-providers">(17 de 17 fournisseurs)</span>
+    </div>
+</div></div>
+                <div class="bags-info"><div class="bags-info-title">Enregistrement de bagages ?</div>
+<a target="_blank" title="Ouvre une nouvelle fentre" href="/airlinefees">Des frais additionnels peuvent s'appliquer</a></div>
+            </header>
+            <div class="day-cols clearfix">
+                <div id="cols-header" class="day-cols-header">
+                    <ul id="compare-tabs" class="clearfix header-tabs hidden">
+                        <li class="header-tab header-tab-prices header-tab-active">&lt;a href="#"&gt;Comparer &lt;em&gt;les prix&lt;/em&gt;&lt;/a&gt;</li>   
+                        <li class="header-tab header-tab-times hidden">&lt;a href="#"&gt;Comparer &lt;em&gt;les horaires&lt;/em&gt;&lt;/a&gt;</li>
+                    </ul>
+                    <div id="cbp-list-info" class="cbp day-list-info info-top clearfix">
+                        <div class="day-list-count">
+    67 de <button class="show-all">70 rsultats (tout afficher)</button>
+</div>
+                        <ul class="clearfix filter-sort">
+                            <li class="sort"><button>Trier</button></li>
+                            <li class="filter"><button>Filtrer</button></li>
+                        </ul>
+                        <div class="day-list-sorting">
+                            <label for="sort-select">Trier par</label>
+                            <select id="sort-select">
+                                <option value="price_asc">Prix pour un adulte</option>
+                                <option value="dur_asc">Dure totale du voyage</option>
+                                <option value="out_dep_asc">Aller&nbsp;: heure de dpart</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="day-filters theme-darker clearfix">
+                    <div id="filters-cover" class="day-filters-cover hidden">Chargement en cours...</div>
+                    <div class="day-filters-title"><span class="visually-hidden">Filtres</span></div>
+                    <div class="price-alerts"><button class="price-alerts-button  ">
+    <span class="price-alerts-icon"><span class="visually-hidden">Chargement en cours...</span></span>
+    <span class="price-alerts-message">Crer une alerte prix</span>
+</button></div>
+                    <div id="filters-stops" class="day-filters-group stops">
+                        <h3>Escales</h3>
+                        <div class="day-filters-content">
+                            <ul class="clearfix">
+    <li data-id="direct" class="">
+        
+            <input type="checkbox" name="filters_direct" id="filters_direct" title="Direct" checked="checked">
+        
+        
+        
+        
+            <label for="filters_direct" class="clearfix">
+        
+            <span class="day-filters-label-price">60 </span>
+            <span class="day-filters-label-message">Direct</span>
+        
+            </label>
+        
+    </li>
+
+    <li data-id="one_stop" class="">
+        
+            <input type="checkbox" name="filters_one_stop" id="filters_one_stop" title="1 escale" checked="checked">
+        
+        
+        
+        
+            <label for="filters_one_stop" class="clearfix">
+        
+            <span class="day-filters-label-price">203 </span>
+            <span class="day-filters-label-message">1 escale</span>
+        
+            </label>
+        
+    </li>
+
+    <li data-id="two_plus_stops" class="">
+        
+            <input type="checkbox" name="filters_two_plus_stops" id="filters_two_plus_stops" title="2+ escales" checked="checked">
+        
+        
+        
+        
+            <label for="filters_two_plus_stops" class="clearfix">
+        
+            <span class="day-filters-label-price">259 </span>
+            <span class="day-filters-label-message">2+ escales</span>
+        
+            </label>
+        
+    </li>
+</ul>
+                        </div>
+                    </div>
+                    <div id="filters-times" class="day-filters-group times separator">
+                        <h3>Heures de dpart</h3>
+                        <div class="day-filters-content">
+                            <div class="day-filters-slider outbound spacer">
+                                <div class="slider-outbound-label">Aller</div>
+                                <div class="slider-outbound-times time-range">00:00  23:59</div>
+                                <div class="slider-container">
+                                    <div class="slider-handle-range" style="left: 9px; width: 0px; "></div>
+                                    <div class="slider-handle slider-handle-left" style="left: 0px; "></div>
+                                    <div class="slider-handle slider-handle-right" style="left: 82px; "></div>
+                                </div>
+                            </div>
+                            <div class="day-filters-slider inbound hidden">
+                                <div class="slider-return-label">Retour</div>
+                                <div class="slider-return-times time-range">00:00  23:59</div>
+                                <div class="slider-container">
+                                    <div class="slider-handle-range" style="left: 9px; width: 0px; "></div>
+                                    <div class="slider-handle slider-handle-left" style="left: 0px; "></div>
+                                    <div class="slider-handle slider-handle-right" style="left: 82px; "></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="filters-duration" class="day-filters-group duration separator">
+                        <h3>Dure du voyage</h3>
+                        <div class="day-filters-content">
+                            <div class="day-filters-slider">
+                                <div class="slider-duration-label time-range">3.5 heures  30.5 heures</div>
+                                <div class="slider-container" id="filters-slider-duration">
+                                    <div class="slider-handle-range" style="left: 0px; width: 9px; "></div>
+                                    <div class="slider-handle slider-handle-right" style="left: 82px; "></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="filters-airlines" class="day-filters-group airlines separator">
+                        <h3>Compagnies ariennes</h3>
+                        <ul class="day-filters-actions clearfix">
+                            <li class="day-filters-actions-select"><button class="select-all-airlines disabled" disabled="">Tout slectionner</button></li>
+                            <li class="day-filters-actions-clear"><button class="clear-all-airlines">Tout supprimer</button></li>
+                        </ul>
+                        <div class="day-filters-content"><ul class="clearfix">
+    <li data-airline-id="SU">
+        <input id="airline_SU" type="checkbox" checked="checked" title="Aeroflot">
+        <label for="airline_SU" class="clearfix">
+            
+                <span class="day-filters-label-price">1.323 </span>
+            
+            <span class="day-filters-label-message">Aeroflot</span>
+        </label>
+    </li>
+
+    <li data-airline-id="AH">
+        <input id="airline_AH" type="checkbox" checked="checked" title="Air Algerie">
+        <label for="airline_AH" class="clearfix">
+            
+                <span class="day-filters-label-price">453 </span>
+            
+            <span class="day-filters-label-message">Air Algerie</span>
+        </label>
+    </li>
+
+    <li data-airline-id="UX">
+        <input id="airline_UX" type="checkbox" checked="checked" title="Air Europa">
+        <label for="airline_UX" class="clearfix">
+            
+                <span class="day-filters-label-price">1.326 </span>
+            
+            <span class="day-filters-label-message">Air Europa</span>
+        </label>
+    </li>
+
+    <li data-airline-id="AF">
+        <input id="airline_AF" type="checkbox" checked="checked" title="Air France">
+        <label for="airline_AF" class="clearfix">
+            
+                <span class="day-filters-label-price">113 </span>
+            
+            <span class="day-filters-label-message">Air France</span>
+        </label>
+    </li>
+
+    <li data-airline-id="AZ">
+        <input id="airline_AZ" type="checkbox" checked="checked" title="Alitalia">
+        <label for="airline_AZ" class="clearfix">
+            
+                <span class="day-filters-label-price">259 </span>
+            
+            <span class="day-filters-label-message">Alitalia</span>
+        </label>
+    </li>
+
+    <li data-airline-id="SN">
+        <input id="airline_SN" type="checkbox" checked="checked" title="Brussels Airlines">
+        <label for="airline_SN" class="clearfix">
+            
+                <span class="day-filters-label-price">222 </span>
+            
+            <span class="day-filters-label-message">Brussels Airlines</span>
+        </label>
+    </li>
+
+    <li data-airline-id="EZ">
+        <input id="airline_EZ" type="checkbox" checked="checked" title="easyJet">
+        <label for="airline_EZ" class="clearfix">
+            
+                <span class="day-filters-label-price">60 </span>
+            
+            <span class="day-filters-label-message">easyJet</span>
+        </label>
+    </li>
+
+    <li data-airline-id="MS">
+        <input id="airline_MS" type="checkbox" checked="checked" title="EgyptAir">
+        <label for="airline_MS" class="clearfix">
+            
+                <span class="day-filters-label-price">458 </span>
+            
+            <span class="day-filters-label-message">EgyptAir</span>
+        </label>
+    </li>
+
+    <li data-airline-id="60">
+        <input id="airline_60" type="checkbox" checked="checked" title="Etihad Airways">
+        <label for="airline_60" class="clearfix">
+            
+                <span class="day-filters-label-price">937 </span>
+            
+            <span class="day-filters-label-message">Etihad Airways</span>
+        </label>
+    </li>
+
+    <li data-airline-id="KL">
+        <input id="airline_KL" type="checkbox" checked="checked" title="KLM">
+        <label for="airline_KL" class="clearfix">
+            
+                <span class="day-filters-label-price">778 </span>
+            
+            <span class="day-filters-label-message">KLM</span>
+        </label>
+    </li>
+
+    <li data-airline-id="LH">
+        <input id="airline_LH" type="checkbox" checked="checked" title="Lufthansa">
+        <label for="airline_LH" class="clearfix">
+            
+                <span class="day-filters-label-price">1.290 </span>
+            
+            <span class="day-filters-label-message">Lufthansa</span>
+        </label>
+    </li>
+
+    <li data-airline-id="QR">
+        <input id="airline_QR" type="checkbox" checked="checked" title="Qatar Airways">
+        <label for="airline_QR" class="clearfix">
+            
+                <span class="day-filters-label-price">3.168 </span>
+            
+            <span class="day-filters-label-message">Qatar Airways</span>
+        </label>
+    </li>
+
+    <li data-airline-id="SV">
+        <input id="airline_SV" type="checkbox" checked="checked" title="Saudia">
+        <label for="airline_SV" class="clearfix">
+            
+                <span class="day-filters-label-price">669 </span>
+            
+            <span class="day-filters-label-message">Saudia</span>
+        </label>
+    </li>
+
+    <li data-airline-id="TK">
+        <input id="airline_TK" type="checkbox" checked="checked" title="Turkish Airlines">
+        <label for="airline_TK" class="clearfix">
+            
+                <span class="day-filters-label-price">203 </span>
+            
+            <span class="day-filters-label-message">Turkish Airlines</span>
+        </label>
+    </li>
+
+    <li data-airline-id="MULTI">
+        <input id="airline_MULTI" type="checkbox" checked="checked" title="Combinaisons de compagnies ariennes">
+        <label for="airline_MULTI" class="clearfix">
+            
+                <span class="day-filters-label-price">107 </span>
+            
+            <span class="day-filters-label-message">Combinaisons de compagnies ariennes</span>
+        </label>
+    </li>
+</ul></div>
+                    </div>
+                <div id="filters-multipart-booking" class="day-filters-group booking separator">
+    <h3>Rservations multiples</h3>
+    <div class="day-filters-content">
+        <ul class="clearfix condensed">
+            <li>
+                <input type="checkbox" id="non-protected-transfers" title="Transfert non protg">
+                <label for="non-protected-transfers" class="clearfix">
+                    
+                        <span class="day-filters-label-price">76 </span>
+                    
+                    <span class="day-filters-label-message clearfix">Transfert non protg<span class="icon"><span class="visually-hidden">Informations</span></span></span>
+                </label>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                <div class="day-main-content">
+                    <div class="day-compare-by-price">
+                        <div id="cbp-options" class="day-options clearfix theme-darker">
+                            <div class="day-options-item airline">
+                                <div class="day-options-wrapper">
+                                    <button disabled="">Compagnie arienne</button>
+                                </div>
+                            </div>
+                            <div class="day-options-item depart">
+                                <div class="day-options-wrapper">
+                                    <button disabled="">Aller</button>
+                                    <div class="day-options-navigation">
+                                        <a href="#" class="prev" title="lun. 13 janv."></a>
+                                        <span data-date="2014-01-14">mar. 14 janv.</span>
+                                        <a href="#" class="next" title="mer. 15 janv."></a>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="day-options-item stops">
+                                    <div class="day-options-wrapper">
+                                        <button disabled="">Escales</button>
+                                    </div>
+                                </div>
+                            <div class="day-options-item price">
+                                <div class="day-options-wrapper">
+                                    <button disabled="">Prix pour un adulte</button>
+                                    <div class="booking-info hidden"><span class="visually-hidden">Informations sur la rservation</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="cbp-indirects-info" class="indirects-info hidden"></div>
+                        <div id="cbp-searching" class="day-searching hidden">
+                            <div class="day-searching-message">Recherche en cours</div>
+                            <ul></ul>
+                        </div>
+                        <div id="cbp-no-results" class="day-no-results hidden"></div>
+                        <ul id="cbp-itineraries" class="day-list clearfix"><li id="10413-1401141605-EZ-0-10622-1401141815" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <span data-carrier-ids="EZ">easyJet</span>
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">16:05</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">18:15</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-green">
+        Direct
+    </span>
+    <span class="leg-stops-station">
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>3h 10</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">easyJet</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">60 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c75">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                easyJet 62 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c76">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Opodo 65 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c77">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Logitravel 66 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c78">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 66 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c79">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Expedia 84 
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>60 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401140720-AF-0-10622-1401140925" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="AF" src="http://logos.skyscnr.com/images/airlines/small/AF.png" alt="Air France" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">07:20</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">09:25</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-green">
+        Direct
+    </span>
+    <span class="leg-stops-station">
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>3h 05</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Air France</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">113 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">Travel2be</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c84">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                ebookers 115 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c85">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Opodo 116 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c86">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Air France 120 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c87">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                GoVoyages 120 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c88">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Expedia 125 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c89">
+                            <a title="Dernier prix consult  18:45 le 01/12/2013" href="#">
+                                BudgetAir 133 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c90">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 857 
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>113 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">Travel2be</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401141830-AF-0-10622-1401142035" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="AF" src="http://logos.skyscnr.com/images/airlines/small/AF.png" alt="Air France" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">18:30</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">20:35</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-green">
+        Direct
+    </span>
+    <span class="leg-stops-station">
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>3h 05</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Air France</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">120 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c92">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Travel2be 851 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c93">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 857 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c94">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Air France 895 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c95">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Expedia 898 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c96">
+                            <a title="Dernier prix consult  18:45 le 01/12/2013" href="#">
+                                BudgetAir 906 
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>120 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401141815-TK-1-10622-1401151300" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="TK" src="http://logos.skyscnr.com/images/airlines/small/TK.png" alt="Turkish Airlines" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">18:15</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">13:00</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-red">
+        1 escale
+    </span>
+    <span class="leg-stops-station">
+        
+            <span class="stop-station" data-station-id="12585">IST</span>
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>19h 45 (+1)</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Turkish Airlines</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">203 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">Opodo</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c98">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Travel2be 215 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c99">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 216 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c100">
+                            <a title="Dernier prix consult  18:45 le 01/12/2013" href="#">
+                                BudgetAir 217 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c101">
+                            <a title="Dernier prix consult  18:46 le 01/12/2013" href="#">
+                                Tripsta 220 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c102">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                GoVoyages 299 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c103">
+                            <a href="#">
+                                Turkish Airlines
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>203 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">Opodo</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401141215-SN-1-10622-1401141855" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="SN" src="http://logos.skyscnr.com/images/airlines/small/SN.png" alt="Brussels Airlines" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">12:15</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">18:55</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-red">
+        1 escale
+    </span>
+    <span class="leg-stops-station">
+        
+            <span class="stop-station" data-station-id="10141">BRU</span>
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>7h 40</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Brussels Airlines</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">222 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">Opodo</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c105">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 230 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c106">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Travel2be 230 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c107">
+                            <a title="Dernier prix consult  18:46 le 01/12/2013" href="#">
+                                Tripsta 236 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c108">
+                            <a title="Dernier prix consult  18:45 le 01/12/2013" href="#">
+                                BudgetAir 236 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c109">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                ebookers 242 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c110">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                vol24.fr 242 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c111">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                GoVoyages 245 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c112">
+                            <a href="#">
+                                Brussels Airlines
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>222 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">Opodo</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401141550-TK-1-10622-1401151300" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="TK" src="http://logos.skyscnr.com/images/airlines/small/TK.png" alt="Turkish Airlines" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">15:50</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">13:00</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-red">
+        1 escale
+    </span>
+    <span class="leg-stops-station">
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>22h 10 (+1)</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Turkish Airlines</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">226 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">vol24.fr</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c114">
+                            <a href="#">
+                                Turkish Airlines
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>226 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">vol24.fr</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401140720-AZ-2-10622-1401141505" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="AZ" src="http://logos.skyscnr.com/images/airlines/small/AZ.png" alt="Alitalia" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">07:20</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">15:05</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-red">
+        2 escales
+    </span>
+    <span class="leg-stops-station">
+        
+            <span class="stop-station" data-station-id="17468">VCE,</span>
+        
+            <span class="stop-station" data-station-id="11493">FCO</span>
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>8h 45</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Alitalia</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">259 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">vol24.fr</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c116">
+                            <a href="#">
+                                Alitalia
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>259 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">vol24.fr</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401142040-AZ-2-10622-1401151150" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="AZ" src="http://logos.skyscnr.com/images/airlines/small/AZ.png" alt="Alitalia" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">20:40</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">11:50</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-red">
+        2 escales
+    </span>
+    <span class="leg-stops-station">
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>16h 10 (+1)</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Alitalia</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">288 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">bravofly</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c118">
+                            <a href="#">
+                                Alitalia
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>288 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">bravofly</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401140700-AZ-1-10622-1401141505" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="AZ" src="http://logos.skyscnr.com/images/airlines/small/AZ.png" alt="Alitalia" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">07:00</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">15:05</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-red">
+        1 escale
+    </span>
+    <span class="leg-stops-station">
+        
+            <span class="stop-station" data-station-id="11493">FCO</span>
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>9h 05</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Alitalia</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">295 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c120">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 362 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c121">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Travel2be 370 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c122">
+                            <a title="Dernier prix consult  18:46 le 01/12/2013" href="#">
+                                Tripsta 379 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c123">
+                            <a title="Dernier prix consult  18:45 le 01/12/2013" href="#">
+                                BudgetAir 392 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c124">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Expedia 394 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c125">
+                            <a href="#">
+                                Alitalia
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>295 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div></li><li id="10413-1401141305-AF-0-10622-1401141510" class="day-list-item clearfix"><div class="helper-row clearfix">
+    <div class="carrier">
+        <div class="carrier-wrapper clearfix">
+            
+                <img data-carrier-ids="AF" src="http://logos.skyscnr.com/images/airlines/small/AF.png" alt="Air France" onerror="this.src='http://logos.skyscnr.com/images/airlines/small/no_logo.png';">
+                
+            
+        </div>
+    </div>
+    
+        <div class="one-way-leg-wrapper">
+            <div class="one-way-leg-info"><span class="visually-hidden">One way flight</span></div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-flight clearfix">
+    <div class="leg-flight-depart">
+        <div class="leg-flight-time">13:05</div>
+        <div class="leg-flight-station" data-station-id="10413">CDG</div>
+    </div>
+    <div class="leg-flight-separator"></div>
+    <div class="leg-flight-return">
+        <div class="leg-flight-time">15:10</div>
+        <div class="leg-flight-station" data-station-id="10622">CMN</div>
+    </div>
+</div>
+                </div>
+            </div>
+            <div class="one-way-leg">
+                <div class="leg-wrapper">
+                    <div class="leg-stops">
+    <span class="leg-stops-green">
+        Direct
+    </span>
+    <span class="leg-stops-station">
+        
+    </span>
+</div>
+<div class="leg-duration">
+    <span>3h 05</span>
+</div>
+                </div>
+            </div>
+            <div class="leg-airline">Air France</div>
+
+        </div>
+    
+    <div class="mainquote">
+        <div class="mainquote-total">
+            <span class="visually-hidden">Total price</span>
+        </div>
+        <div class="mainquote-wrapper">
+            
+                <div class="mainquote-price big">321 </div>
+            
+            <div class="mainquote-select clearfix">
+                <a class="button" title="Choisir" href="#">
+                    <span>Choisir</span>
+                </a>
+            </div>
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div>
+<div class="details clearfix">
+    <div class="details-booking">
+        <span class="visually-hidden">Details and booking options</span>
+    </div>
+    <div class="details-group clearfix">
+        <div class="details-group-booking">
+            <div class="details-group-booking-wrapper">
+                <a title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+            </div>
+        </div>
+        
+        <div class="details-group-altquotes">
+            <div class="details-group-altquotes-wrapper">
+                <span>Ou rservez avec :</span>
+                <ul>
+                    
+                        
+                        <li data-id="c127">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Travel2be 851 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c128">
+                            <a title="Dernier prix consult  18:14 le 01/12/2013" href="#">
+                                bravofly 857 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c129">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Air France 895 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c130">
+                            <a title="Dernier prix consult  14:16 le 01/12/2013" href="#">
+                                Expedia 898 
+                                
+                            </a>
+                        </li>
+                    
+                        
+                            <li class="separator">|</li>
+                        
+                        <li data-id="c131">
+                            <a title="Dernier prix consult  18:45 le 01/12/2013" href="#">
+                                BudgetAir 906 
+                                
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <div class="details-price-status">
+        <span class="visually-hidden">Price status</span>
+    </div>
+    <div class="details-mainquote">
+        <div class="details-mainquote-wrapper">
+            
+                
+                    
+                
+            
+        </div>
+    </div>
+</div>
+<div class="mainquote-minimal">
+    <div class="mainquote-minimal-wrapper clearfix">
+        <a class="mainquote-minimal-details" title="Cliquez pour afficher les dtails et les options de rservation." href="#">Dtails</a>
+        <a class="button" title="Choisir" href="#">
+            <span>321 </span>
+        </a>
+        <div class="mainquote-minimal-agent">
+            
+                <a class="ticketing-agent mainquote-agent" href="#">GoVoyages</a>
+            
+        </div>
+    </div>
+</div></li></ul>
+                        <div id="cbp-pagination" class="day-list-info info-bottom clearfix"><div class="day-list-count">De <strong>1</strong>  <strong>10</strong> sur <strong>67</strong> rsultats</div>
+
+    <div class="day-list-pagination clearfix">
+        <div class="day-list-pagination-label">Page </div>
+        <ul class="clearfix">
+            
+            
+                
+                    <li class="selected" data-val="1">1</li>
+                
+            
+                
+                    <li data-val="2"><button>2</button></li>
+                
+            
+                
+                    <li data-val="3"><button>3</button></li>
+                
+            
+                
+                    <li data-val="4"><button>4</button></li>
+                
+            
+                
+                    <li data-val="5"><button>5</button></li>
+                
+            
+                
+                    <li data-val="6"><button>6</button></li>
+                
+            
+                
+                    <li class="ellipsis">...</li>
+                
+            
+                
+                    <li data-val="7"><button>7</button></li>
+                
+            
+            
+                <li class="next"><button title="Page suivante"></button></li>
+            
+        </ul>
+    </div>
+</div>
+                    </div>
+                    <div class="day-compare-by-time hidden"></div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <p>
+        <b>Prix vrifis quotidiennement.</b> Les prix peuvent changer selon la disponibilit au moment de la rservation.
+    </p>
+    
+    <p>
+    </p>
+    <div id="need-alts-container" class="">
+    <p>
+        Vous voulez encore plus d'options de voyage ? Consultez directement ces prestataires :
+    </p>
+    <section id="need-alts-section" class="need-alts loading clearfix">
+        <span class="visually-hidden">Chargement en cours...</span>
+    </section>
+</div>
+
+        <div id="banner-advert">
+        <div id="bottom-ext-ad"></div>
+    </div>
+
+    <p>Si vous pensez que certaines informations de cette page sont errones, merci de <a href="https://aide.skyscanner.fr" title="contacter Skyscanner">contacter Skyscanner</a>.</p>
+</div>
+ 
+<aside id="sidebar">
+        <div class="mpu-advert">
+            <div id="mpu-ext-ed" class="mpu-advert-container"></div>
+        </div>
+    <div id="hotels-supplement-section" class="hotels-supplement hidden"></div>
+        <div class="mpu-advert">
+            <div id="middle-ext-ad"></div>
+        </div>
+    <div id="route-sponsors-section" class="route-sponsors clearfix hidden">
+    <h4 class="title"></h4>
+    <ul></ul>
+</div>
+</aside>
+ 
+    <div id="skyscraper-advert">
+        <div id="right-ext-ad"></div>
+    </div>
+
+
+
+
+
+        </div>
+        <!-- END Content -->
+        
+<footer id="footer">
+    
+    <div class="footer-content">
+        <div class="wrap clearfix">
+            <section id="explore-block">
+                <h3>Explorer</h3>
+                <ul>
+                        <li><a id="ss-footer-links-city-links" href="/vols-a/vols-pas-chers-a-villes-tous.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;iplace=scl&amp;odate=140101">Villes</a>
+                                <span class="toggle-indicator" onclick="toggle_visibility('city-links')">+</span>
+                                <ul id="city-links" class="asian-lang-font-reset clearfix hidden">
+                                        <li><a id="ss-footer-links-city-PARI" href="/vols-a/pari/vols-pas-chers-a-paris.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Paris</a></li>
+                                        <li><a id="ss-footer-links-city-NYCA" href="/vols-a/nyca/vols-pas-chers-a-new-york.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">New York</a></li>
+                                        <li><a id="ss-footer-links-city-LOND" href="/vols-a/lond/vols-pas-chers-a-londres.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Londres</a></li>
+                                        <li><a id="ss-footer-links-city-NICE" href="/vols-a/nce/vols-pas-chers-a-nice.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Nice</a></li>
+                                        <li><a id="ss-footer-links-city-TOUS" href="/vols-a/tls/vols-pas-chers-a-toulouse.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Toulouse</a></li>
+                                        <li><a id="ss-footer-links-city-ROME" href="/vols-a/rome/vols-pas-chers-a-rome.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Rome</a></li>
+                                        <li><a id="ss-footer-links-city-MARS" href="/vols-a/mrs/vols-pas-chers-a-marseille.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Marseille</a></li>
+                                </ul>
+                        </li>
+                        <li><a id="ss-footer-links-airports" href="/aeroports/aeroports-du-monde.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;iplace=scl&amp;odate=140101">Aroports</a>
+                        </li>
+                        <li><a id="ss-footer-links-country-links" href="/vols-a/vols-pas-chers-a-plusieurs-pays-tous.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;iplace=scl&amp;odate=140101">Pays</a>
+                                <span class="toggle-indicator" onclick="toggle_visibility('country-links')">+</span>
+                                <ul id="country-links" class="asian-lang-font-reset clearfix hidden">
+                                        <li><a id="ss-footer-links-country-FR" href="/vols-a/fr/vols-pas-chers-a-france.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">France</a></li>
+                                        <li><a id="ss-footer-links-country-US" href="/vols-a/us/vols-pas-chers-a-etats-unis.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">tats-Unis</a></li>
+                                        <li><a id="ss-footer-links-country-IT" href="/vols-a/it/vols-pas-chers-a-italie.html?45650eb5-9d65-44ec-8da4-c133f94f6843=system.web.mvc.dictionaryvalueprovider%601%5bsystem.object%5d&amp;ancillaryid=airli&amp;clientcontroller=flights&amp;clientaction=dayviewoneway&amp;parentviewmodel=skyscanner.website.viewmodels.day.dayviewmodel&amp;oplace=saoa&amp;odate=140101">Italie</a></li>
+                                </ul>
+                        </li>
+                        <li><a id="ss-footer-links-airlines" href="airlines-all.html">Compagnies ariennes</a>
+                        </li>
+                        <li><a id="ss-footer-links-flights" href="/">Vols</a>
+                        </li>
+                        <li><a id="ss-footer-links-hotels" href="/hotels-a.html">Htels</a>
+                        </li>
+                        <li><a id="ss-footer-links-car-hire" href="/car-hire">Location de voitures</a>
+                        </li>
+                </ul>
+            </section>
+            <section id="tools-block">
+                <h3>Outils de voyage</h3>
+                <ul>
+                        <li><a id="ss-footer-links-widgets" href="http://www.skyscanneraffiliate.net/portal/fr/FR/skytools/overview">Widgets</a></li>
+                    <li><a id="ss-footer-links-api" href="http://www.skyscanneraffiliate.net/portal/fr/FR/api/overview">API</a></li>
+                    <li><a id="ss-footer-links-apps" href="/portable.html">Applications mobiles</a></li>
+                    <li><a id="ss-footer-links-mobile-site" href="http://m.skyscanner.com/?ucy=FR&amp;lang=fr&amp;ccy=EUR">Site Web mobile</a></li>
+                </ul>
+            </section>
+            <section id="company-block">
+                <h3>Entreprise</h3>
+                <ul>
+                        <li><a id="ss-footer-links-media" rel="nofollow" href="/presse">Presse</a></li>
+                    <li><a href="/privacypolicy.aspx" id="ss-footer-links-privacy" rel="nofollow">Politique de confidentialit et des cookies</a></li>
+                    <li><a href="/termsofservice.aspx" id="ss-footer-links-terms">Conditions d'utilisation</a></li>
+                </ul>
+            </section>
+            <section id="help-block">
+                <h3>Aide</h3>
+                <ul>
+                    <li><a id="ss-footer-links-faq" target="_blank" href="https://aide.skyscanner.fr">FAQ</a></li>
+                    <li><a href="/contactus.aspx" id="ss-footer-links-contact" rel="nofollow">Contactez-nous</a></li>
+                </ul>
+            </section>
+            <span class="footer-logo"></span>
+        </div>
+    </div>
+     
+    
+    
+    <div class="wrap clearfix">
+        <p id="copyright" class="asian-lang-font-reset"> Skyscanner Ltd 2002-2013</p>
+    </div>
+    
+</footer>
+ 
+    </div>
+    <div id="notifications">
+        <div class="cabin-class-tooltip hidden">
+	<p><strong>Nous pouvons seulement afficher les prix en classe conomique pour cette recherche.</strong></p>
+	<p>Pour avoir un plus grand choix de classes, slectionnez d'abord des villes spcifiques et des dates de voyage.</p>
+</div>
+
+
+<div class="prices-found-tooltip theme-dark hidden">
+	<p>Nous faisons le maximum pour que les prix figurant sur le site Skyscanner correspondent aux prix pratiqus par la compagnie arienne.</p>
+	<p>Les prix affichs sur Skyscanner comprennent toujours une estimation de toutes les taxes et frais obligatoires. Le prix final que vous devrez payer pour vos billets peut varier en fonction d'options supplmentaires proposes par la compagnie arienne, telles que les franchises de bagage ou l'assurance voyage.</p>
+</div>
+    </div>
+    <div id="overlay" class="hide lightbox darkbg">
+    </div>
+    <script id="confirmation-dialog-template" type="text/template">
+	<div id="confirmation-dialog-frame">
+		<a class="close"><span class="hide">Fermer</span></a>
+		<div id="confirmation-dialog-content">
+			<img src="<%= Image %>" alt="<%= ImageAlt %>" />
+			<p><%= Prompt %></p>
+		</div>				
+		<div class="confirmation-dialog-submit">
+			<input type="submit" id="confirmation-dialog-apply" name="apply" value="<%= ApplyLabel %>">
+			<input type="submit" id="confirmation-dialog-cancel" name="cancel" value="Annuler">
+		</div>
+	</div>
+</script>
+
+<div id="confirmation-dialog" class="hidden"></div>
+    
+<script type="text/javascript" src="/framework/cache/js/common_tp_53896_fr-FR.js"></script>    
+        <script>
+        Skyscanner.Auth.widget = new Skyscanner.Auth.Widget({
+            accountsDomain: "secure.skyscanner.net",
+            accountsProtocol: "https",
+            iframeId: "widget-frame",
+            market: "FR",
+            locale: "fr-FR"
+        });
+    </script>
+
+    
+    
+    
+    <script type="text/javascript">
+        window.adSlots = [
+            {
+                'containerId': 'mpu-ext-ed',
+                'advertType': 'primaryMpu',
+                'dimensions': [[300, 250], [300, 600]],
+                'priority': 1
+
+            },
+            {
+                'containerId': 'middle-ext-ad',
+                'advertType': 'secondaryMpu',
+                'dimensions': [[300, 250], [300, 600]],
+                'priority': 2
+            },
+            {
+                'containerId': 'right-ext-ad',
+                'advertType': 'rhsSkyscraper',
+                'dimensions': [[120, 600], [160, 600]],
+                'priority': 3
+            },
+            {
+                'containerId': 'bottom-ext-ad',
+                'advertType': 'bottomAd',
+                'dimensions': [[728, 90], [468, 60]],
+                'priority': 4
+            }
+        ];
+
+
+
+        window.runnerOptions = {
+            'isSearchPage': true,
+            'usePageLocation': true,
+            'adUnit': 'flights_funnel/day_view'
+        };
+        
+    </script>
+
+
+
+           
+<script type="text/javascript">
+     SS.advertData = SS.advertData || {
+        "InboundAirportIATA": 'CMN',
+        "InboundAirportName": 'Casablanca Mohamed V.',
+        "InboundAirportNameLocal": 'Casablanca Mohamed V.',
+        "InboundCityIATA": 'CAS',
+        "InboundCityName": 'Casablanca',
+        "InboundCityNameLocal": 'Casablanca',
+        "InboundCode": 'CMN',
+        "InboundCountryIATA": 'MA',
+        "InboundCountryName": 'Maroc',
+        "InboundCountryNameLocal": 'Maroc',
+        "InboundDate": "0001-01-01",
+        "InboundRegionName": null,
+        "InboundRegionNameLocal": null,
+        "OutboundAirportIATA": 'CDG',
+        "OutboundAirportName": 'Paris Charles de Gaulle',
+        "OutboundAirportNameLocal": 'Paris Charles-de-Gaulle',
+        "OutboundCityIATA": 'PAR',
+        "OutboundCityName": 'Paris',
+        "OutboundCityNameLocal": 'Paris',
+        "OutboundCode": 'CDG',
+        "OutboundCountryIATA": 'FR',
+        "OutboundCountryName": 'France',
+        "OutboundCountryNameLocal": 'France',
+        "OutboundDate": "2014-01-01",
+        "OutboundRegionName": null,
+        "OutboundRegionNameLocal": null,
+        "pageHash": "46482143"
+    };
+
+ </script>
+
+
+<script type="text/javascript">
+     /* Google AFS */
+	var render_google_ads = true;
+	var google_afs_query_from = SS.advertData.OutboundCountryNameLocal != null ? "Vols au dpart de" + ' ' + SS.advertData.OutboundCountryNameLocal : '';
+	if (SS.advertData.OutboundCityNameLocal != null) {
+	    google_afs_query_from = "Vols au dpart de" + ' ' + SS.advertData.OutboundCityNameLocal;
+	}
+	var google_afs_query_to = SS.advertData.InboundCountryNameLocal != null ? "Vols  destination de" + ' ' + SS.advertData.InboundCountryNameLocal : '';
+	if (SS.advertData.InboundCityNameLocal != null) {
+	    google_afs_query_to = "Vols  destination de" + ' ' + SS.advertData.InboundCityNameLocal;
+	}
+	var google_afs_query_from_airport = SS.advertData.OutboundAirportName;
+	var google_afs_query_to_airport = SS.advertData.InboundAirportName;
+	var google_afs_query_route = "";
+	var google_links_color = '#29a8bb';
+	var google_text_color = google_text_color = Skyscanner.view.toLowerCase() == "carhire" ? "#A9B500" : "#000000";
+	var google_bg_color = google_bg_color = Skyscanner.view.toLowerCase() == "carhire" ? "#FCFDF5" : "#f7fefe";
+	var adsByGoogleText = "Liens sponsoriss";
+
+	 //Select correct query
+	if (google_afs_query_to != '') {
+		google_afs_query = google_afs_query_to;
+	} else {
+		google_afs_query = google_afs_query_from;
+	}
+
+	//Convert SS codes to Google
+	switch (Skyscanner.lang) {
+	case 'zh': google_afs_hl = 'zh_CN'; break;
+	case 'zw': google_afs_hl = 'zh_TW'; break;
+	case 'cz': google_afs_hl = 'cs'; break;
+	case 'gr': google_afs_hl = 'el'; break;
+	case 'uk': google_afs_hl = 'ru'; break;
+	}
+
+	 //Determine dev status
+	var google_afs_adtest = 'off';
+
+	
+	var googleAFSChannel = Skyscanner.view.toLowerCase() == "carhire" ? "1424890065" : "3359018893";
+	var googleAFSQuery = Skyscanner.view.toLowerCase() == "carhire" ? 'Location dune voiture ' : google_afs_query; 
+	
+    window.google_afs_page_options = {
+            'query': googleAFSQuery,
+            'pubId': 'pub-6496241184674058',
+            'channel': googleAFSChannel,
+            'hl': Skyscanner.lang,
+            'linkTarget': '_blank',
+            'sellerRatings': false,
+            'siteLinks': false,
+            'titleBold': true,
+            'rolloverLinkUnderline': true,
+            'oe': 'utf8',
+            'ie': 'utf8'
+        };
+ </script>
+
+    <script type="text/javascript" src="http://afs.googlesyndication.com/adsense/search/ads.js"></script><script src="//afs.googlesyndication.com/ads/search/module/ads/3.0/c51ed2bad8cec403d546ff24eb69fcebe123104b/n/search.js" type="text/javascript"></script><input type="hidden" id="page_loaded" value="1">
+
+<script type="text/javascript">
+(function () {
+    var adDependenciesFailedToLoad = typeof Skyscanner.Adverts === "undefined" || typeof Skyscanner.Adverts.GoogleAdSense === "undefined";
+    if (!adDependenciesFailedToLoad) {
+        if (typeof window.runnerOptions === "undefined") {
+            window.runnerOptions = {};
+        }
+        window.runnerOptions.adUnit = '/24268069/' + "skyscanner.fr" + '/' + window.runnerOptions.adUnit;
+        window.runnerOptions.pageLevelTargeting = {
+            'lang':'fr','odate':'01-2014','oairp':'cdg','dairp':'cmn','ocity':'pari','dcity':'casa','octry':'fr','dctry':'ma'
+        };
+
+        // init ads only when ads container is visible
+        new Skyscanner.Adverts.AdInitializer().start($('#sidebar'));
+        
+    }
+})();
+</script>
+
+
+    <script type="text/javascript">
+(function () {
+var an = document.createElement('script');
+an.type = 'text/javascript';
+an.async = true;
+an.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + document.location.host + '/framework/cache/js/tealium_53896.js'
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(an, s);
+})();
+  </script>
+
+      
+ <script type="text/javascript"> 
+ (function (url, b, c, d) {
+		url = '//tags.tiqcdn.com/utag/skyscanner/flights-main/prod/utag.js';
+		b = document;
+		c = 'script';
+		d = b.createElement(c);
+		d.src = url;
+		d.type = 'text/java' + c;
+		d.async = true;
+		if (!d.addEventListener) {
+		    d.attachEvent('onload', function () {
+				Skyscanner.Common.tealiumPopulator.loadFlightTags();
+			});
+		} else {
+			d.addEventListener('load', function () {
+				Skyscanner.Common.tealiumPopulator.loadFlightTags();
+			}, false);
+		}
+		var scriptElement = b.getElementsByTagName(c)[0];
+		scriptElement.parentNode.insertBefore(d, scriptElement);
+	})();
+</script>
+
+    <script type="text/javascript">
+(function () {
+var an = document.createElement('script');
+an.type = 'text/javascript';
+an.async = true;
+an.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + document.location.host + '/framework/cache/js/common_async_53896.js'
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(an, s);
+})();
+  </script>
+
+    <script type="text/javascript">
+        Skyscanner.culture = Globalize.culture("fr-FR");
+        Skyscanner.currencyCulture = Globalize.culture("de-DE");
+                
+        if (Skyscanner.culture.calendars.Gregorian_Localized) {
+            Globalize.culture().calendar = Skyscanner.culture.calendars.Gregorian_Localized;
+            Skyscanner.culture.calendar = Skyscanner.culture.calendars.Gregorian_Localized;
+        }
+        
+        // Revert input type="number" to type="text" in opera < 17 to prevent type=number spin buttons from obscuring user input
+        if (window.opera && Number(window.opera.version()) < 17) {
+            var els = document.querySelectorAll ? document.querySelectorAll("input[type=number]") : [];
+            for(var i=0, l=els.length; i < l; i++) {
+                els[i].setAttribute("type","text");
+            }
+        }
+        
+    </script>
+
+    
+    <script type="text/javascript">
+        if(typeof Skyscanner === "undefined") {
+            Skyscanner = { };
+        }         
+        {
+            Skyscanner.priceSeenTrackingEnabled = true;
+            Skyscanner.priceAlertButtonPreEnabled = false;
+            Skyscanner.priceAlertAutoPopupEnabled = false;
+        }
+    </script>
+       
+        <script type="text/javascript" src="/framework/cache/js/funnel_53896_fr-FR.js"></script>
+    
+    <script type="text/javascript" src="/framework/cache/js/dayview_53896_fr-FR.js"></script>
+    
+                          
+
+
+
+    
+    <input id="ftpid" type="hidden" value="day_fr_fr_cdg_cmn_140114_140114">
+    <div id="culture-selector" class="clearfix hide">
+    <div id="culture-selector-panel-popup">
+        <span id="cs-button-close"><span class="hide">fermer</span></span>
+        <div class="culture-selector-panel clearfix">
+            <div class="language-currency-container">
+                <div id="language-panel">
+                    <h3>Langue</h3>
+                    <select id="language-panel-select">
+                        <option value="" selected="selected">Slectionner votre langue</option>
+                    </select>
+                    <p class="current-user-info asian-lang-font-reset">
+                        <span id="user-language-code">FR</span><span id="user-language">Franais</span></p>
+                </div>
+                <div id="currency-panel">
+                    <h3>Devise</h3>
+                    <select id="currency-panel-select">
+                        <option value="" selected="selected">Slectionner votre devise</option>
+                    </select>
+                    <p class="current-user-info asian-lang-font-reset">
+                        <span id="user-currency-symbol"></span><span id="user-currency">EUR</span></p>
+                </div>
+            </div>
+            <div id="country-panel">
+                <h3>Pays</h3>
+                <div id="country-panel-links">
+                    
+                    <select id="country-panel-select">
+                        <option value="" selected="selected">Slectionner votre pays</option>
+                    </select>
+                    
+                    <ul id="country-panel-links-list">
+                            <li class="clearfix">
+                                <input type="radio" name="country-panel-list" id="country-panel-list-radio-FR" value="FR">
+                                <label for="country-panel-list-radio-FR" id="FR">
+                                    <img title="France" alt="France" src="http://images.skyscnr.com/images/country/flag/small/fr.png">France
+                                </label>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="button-container clearfix">
+            <input type="submit" id="cs-button-apply" name="apply" value="Appliquer">
+            <input type="submit" id="cs-button-cancel" name="cancel" value="Annuler">
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        Skyscanner.zendeskConfig = {
+            dropboxID: '20060516',
+            url: 'https://aide.skyscanner.fr',
+            tabID: 'help',
+            tabColor: '#4D5059',
+            tabPosition: 'Right',
+            tabImageURL: 'http://images.skyscnr.com' + '/images/zendesk/tab_fr.png',
+            enabled: true,
+            helpHeading: 'Aide'
+        };
+        Skyscanner.Common.ZendeskBootstrap.setupOnLoad();
+    </script>
+               
+    <div id="account-login-widget" class="account-widget clearfix hide">
+
+        <div class="account-widget-content">
+            <span id="login-close" class="account-widget-button-close"><span class="hide">Fermer</span></span>
+            <div class="confirmation-dialog-panel clearfix">
+            </div>
+		
+            <iframe id="widget-frame" style="width: 100%" height="400" frameborder="0"></iframe>
+        </div>
+    </div>
+    <div id="account-settings-widget" class="account-settings-widget clearfix hide">
+        <div class="account-widget-content">
+            <span id="account-close" class="account-widget-button-close"><span class="hide">Fermer</span></span>
+            <div align="center">
+                <h2>Connect en tant que</h2>
+                <div id="userEmail"><h2 title=""></h2></div>
+                <a href="#" id="account-settings" class="button">Paramtres du compte</a>
+                <a href="#" id="logout" class="button">Se dconnecter</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(function() {
+            var authenticaitonView = new Skyscanner.Common.AuthenticationView({ model: new Skyscanner.Common.AuthenticationModel({ auth: Skyscanner.Auth.widget }) });
+        });
+    </script>
+
+    
+
+    
+    
+<script id="history-header-template" type="text/template">
+	<div id="history-header">
+		<h2><%= ktxtTripPlanning_RecentSearchesTitle %></h2>
+		<img src="http://images.skyscnr.com/images/site/common/spinners/16_grey_matte.gif" />
+		<ol class="hidden">
+			<li><a title="<%= ktxtTripPlanning_ClearAllCards %>" class="clear-all"><span><%= ktxtTripPlanning_ClearAllCards %></span></a></li>
+			<li><a title="<%= ktxtTripPlanning_TurnOffPriceAlerts %>" class="toggle-enable off"><span><%= ktxtTripPlanning_TurnOffPriceAlerts %></span></a></li>
+			<li><a title="<%= ktxt_close %>" class="close"><span><%= ktxt_close %></span></a></li>
+		</ol>
+	</div>
+	<div id="history-response"></div>
+</script>
+		
+<script id="history-list-template" type="text/template">
+	<div id="history-cards">
+		<ol class="card-navigate">
+			<li id="prev-card"><a><span class="accessibility">Previous</span></a></li>
+			<li id="next-card"><a><span class="accessibility">Next</span></a></li>
+		</ol>
+				
+		<div id="history-carousel">
+		</div>
+	</div>
+	<div id="paging-container">
+		<ol></ol>
+	</div>
+</script>
+		
+<script id="flights-item-template" type="text/template">
+		<h3 class="hide"><%= Title %></h3>
+		<ol class="card-actions">
+			<li><a class="card-delete" title="<%= Translations.ktxtTripPlanning_DeleteCard %>"><span class="accessibility"><%= Translations.ktxtTripPlanning_DeleteCard %></span></a></li>
+		</ol>
+				
+		<ol class="card-content">
+			<li class="departure">
+				<label><%= Translations.ktxtTripPlanning_LabelFrom %></label> <span><%= TripItem.OriginName %></span>
+			</li>
+			<li class="destination">
+				<label><%= Translations.ktxtTripPlanning_LabelTo %></label> <span><%= TripItem.DestinationName %></span>
+			</li>
+			<li class="departure-date">
+				<%= TripItem.OutboundDatePartFormatted %>
+			</li>
+			<li class="return-date <%= TripItem.InboundDateIsEmpty %>">
+				<%= TripItem.InboundDatePartFormatted %>
+			</li>
+			<li class="passengers adults count-<%= TripItem.PassengerInfo.Adults %>">
+				<label class="accessibility"><%= Translations.ktxtAdults %></label> <span><%= TripItem.PassengerInfo.Adults %></span>
+			</li>
+			<li class="passengers children count-<%= TripItem.PassengerInfo.Children %>">
+				<label class="accessibility"><%= Translations.ktxtChildren %></label> <span><%= TripItem.PassengerInfo.Children %></span>
+			</li>
+			<li class="passengers infants count-<%= TripItem.PassengerInfo.Infants %>">
+				<label class="accessibility"><%= Translations.ktxtInfants %></label> <span><%= TripItem.PassengerInfo.Infants %></span>
+			</li>
+			<li class="cabin-class">
+				<%= TripItem.CabinClass %>
+			</li>
+		</ol>
+				
+		<div class="search">
+			<a href="/<%= DeepLinkUrlPart %>" title="<%= Translations.ktxtSearchControls_Search %>" class="button">
+				<span><%= Translations.ktxtSearchControls_Search %></span>
+			</a>
+		</div>		
+</script>
+		
+<script id="car-hire-item-template" type="text/template">
+		<h3 class="hide"><%= Title %></h3>
+		<ol class="card-actions">
+			<li><a class="card-delete" title="<%= Translations.ktxtTripPlanning_DeleteCard %>"><span class="accessibility"><%= Translations.ktxtTripPlanning_DeleteCard %></span></a></li>
+		</ol>
+				
+		<ol class="card-content">
+			<li class="departure">
+				<label><%= LabelPickupDropOff %></label> <span><%= TripItem.OriginName %></span>
+			</li>
+			<li class="destination <%= HideDestinationClass %>">
+				<label><%= Translations.ktxtTripPlanning_LabelDropOff %></label> <span><%= TripItem.DestinationName %></span>
+			</li>
+			<li class="departure-date">
+				<%= TripItem.PickUpDateTimeFormatted %>
+			</li>
+			<li class="return-date">
+				<%= TripItem.DropOffDateTimeFormatted %>
+			</li>
+			<li>
+				<label><%= Translations.ktxtTripPlanning_LabelDriversAge %></label> <span><%= TripItem.DriverAge %></span>
+			</li>
+		</ol>
+				
+		<div class="search">
+			<a href="<%= DeepLinkUrlPart %>" title="<%= Translations.ktxtSearchControls_Search %>" class="button">
+				<span><%= Translations.ktxtSearchControls_Search %></span>
+			</a>
+		</div>	
+</script>
+		
+<script id="authentication-item-template" type="text/template">
+	<article data-id="Authentication" class="authentication">
+		<div class="card-actions"></div>
+				
+		<div class="card-content">
+			<h3><a class="authentication-register"><%= ktxtUserAccount_Register %></a> <%= ktxtUserAccount_or %> <a class="authentication-login"><%= ktxtUserAccount_Login %></a></h3>
+			<p><%= ktxtUserAccount_RegisterOrLoginText %></p>
+		</div>
+				
+		<div class="search"></div>						
+	</article>
+</script>
+
+<script type="text/javascript">
+        var history_collection = new Skyscanner.UserSearchHistoryItemCollection();
+        var history_view = new Skyscanner.UserSearchHistoryView({
+                el: $("#container-trip-planning-refactor"), 
+                collection: history_collection,
+                initialiseElement: $('#history-toggle')
+            });
+</script>
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","f562695c9e","2456743","YARXZBZXWURWAEVcCVlOcV8QeFJDdAxfQRRYDVlVFhlxW14EWUEVGCVUSTJfUkB4DVRiB04=",0,62,new Date().getTime(),"C8071CA5544C42B3","","","",""]);</script>
+
+<ul class="autosuggest" id="from-autosuggest"></ul><ul class="autosuggest" id="to-autosuggest"></ul><img src="/userorchestration/tracking.gif?Origin=CDG&amp;Destination=CMN&amp;OutboundDatePart=140114&amp;Adults=1&amp;Children=0&amp;Infants=0&amp;CabinClass=Economy&amp;IsReturn=false&amp;Type=transportsearch" style="display:none"><img src="/userorchestration/tracking.gif?Origin=CDG&amp;Destination=CMN&amp;OutboundDatePart=140114&amp;Adults=1&amp;Children=0&amp;Infants=0&amp;CabinClass=Economy&amp;IsReturn=false&amp;Type=priceconsistency&amp;viewname=DayView&amp;requestid=e3f8a7cd-08f2-4562-c27f-dbfe0305bf17&amp;seendatetime=2013-12-01T19:12:24+01:00&amp;seenquoteprice=60&amp;quotecurrency=EUR&amp;seenoutboundquotedatetime=2013-12-01T13:16:00&amp;itineraryid=10413-1401141605-EZ-0-10622-1401141815&amp;seeninboundcarriers=&amp;seenoutboundcarriers=EZ&amp;seenoutboundagents=GoVoyages&amp;isngt=false&amp;filtershowmulti=false&amp;pageurl=http%3A%2F%2Fwww.skyscanner.fr%2Ftransport%2Fvols%2Fcdg%2Fcmn%2F140114%2Ftarifs-de-paris-charles-de-gaulle-a-casablanca-mohamed-v.-en-janvier-2014.html%3Frtn%3D0&amp;version=1.1&amp;source=NWF" style="display:none"><img alt="" height="1" width="1" style="display: none;" src="https://d.turn.com/r/dd/id/L21rdC8xMjgvY2lkLzE2MzQ2OTk5L3QvMg/dpuid/211a9509-5ab4-11e3-84d6-1e84320c62ec/url/https://pixel.sojern.com/idSync/Turn?exchangeProfileId=$!{TURN_UUID}"><img alt="" height="1" width="1" style="display: none;" src="https://sb.scorecardresearch.com/p?c1=8&amp;c2=6035672&amp;c3=102&amp;c4=&amp;c5=&amp;c6=&amp;c10="><img alt="" height="1" width="1" style="display: none;" src="https://cm.g.doubleclick.net/pixel?google_nid=sojern__adx_open_bidder_seat&amp;google_hm=IRqVCVq0EeOE1h6EMgxi7A&amp;google_cm&amp;google_sc"><div id="criteo-tags-div" style="display: none; "><iframe height="0" width="0" style="display: none; " src="http://dis.eu.criteo.com/dis/dis.aspx?p=3491&amp;cb=57919388496&amp;ref=&amp;sc_r=1024x768&amp;sc_d=24&amp;site_type=d"></iframe></div><script type="text/javascript" src="http://js-agent.newrelic.com/nr-100.js"></script><script type="text/javascript" src="http://beacon-2.newrelic.com/1/f562695c9e?a=2456743&amp;qt=0&amp;ap=62&amp;dc=1382&amp;fe=4682&amp;to=YARXZBZXWURWAEVcCVlOcV8QeFJDdAxfQRRYDVlVFhlxW14EWUEVGCVUSTJfUkB4DVRiB04%3D&amp;tt=C8071CA5544C42B3&amp;v=42&amp;jsonp=NREUM.setToken"></script><div id="zenbox_tab" href="#" style="background-image: url(http://images.skyscnr.com/images/zendesk/tab_fr.png); background-color: rgb(77, 80, 89); border-top-color: rgb(77, 80, 89); border-right-color: rgb(77, 80, 89); border-bottom-color: rgb(77, 80, 89); border-left-color: rgb(77, 80, 89); display: block; " title="Aide" class="ZenboxTabRight" classname="ZenboxTabRight">Support</div><div id="zenbox_overlay" style="display: none; "><div id="zenbox_container">  <div class="zenbox_header"><img id="zenbox_close" src="//assets.zendesk.com/external/zenbox/images/close_big.png"></div>  <iframe id="zenbox_body" frameborder="0" scrolling="auto" allowtransparency="true" src="//assets.zendesk.com/external/zenbox/v2.1/loading.html"></iframe></div><div id="zenbox_scrim">&nbsp;</div></div></body></html>
