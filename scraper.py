@@ -28,8 +28,8 @@ def urlformatting(route, date):
 	print request_url
 	return request_url
 	
-def scrapAjaxWebpage(url):
-	
+def scrapAjaxWebpage(route, date):
+	url=urlformatting(route, date)
 	html=(jw.get_page(url)).encode('ascii','ignore')
 	#results=re.findall(pattern, html)
 	with open("dataAjax.txt","w") as ajaxdata:
@@ -62,34 +62,15 @@ def scrapAjaxWebpage(url):
 		
 	
 	#print "airlines : %r prices: %s departure times: %s arrival times: % s" % (airlines, prices, departuretimes, arrivaltimes)
+	print "flights from %s to %s the %s%s%s"%(route[0],route[1],date[3],date[2], date[0] )
 	print FlightResults
-	with open("scrapedflightsprices.txt","w") as scrapeddata:
+	with open("scrapedflightsprices.txt","a") as scrapeddata:
+		scrapeddata.write("flights from %s to %s the %s%s%s"%(route[0],route[1],date[3],date[2], date[0] ))
 		mypickle=pickle.Pickler(scrapeddata)
 		mypickle.dump(FlightResults)
 		
 	return FlightResults
 
-def scrap(depart,arrival):
-	url=url_base+"transport/vols/"+depart+"/"+arrival+"/"
-	print(url)
-	html=urlopen(url).read()
-	soup=BeautifulSoup(html,"lxml")
-	context=nltk.clean_html(html)
-	with open("data.txt","w") as scraped_data:
-	
-		mydata=scraped_data.write(url)
-	print(context)        		
-	return soup
-
-def clean_text(url):
-	html=urlopen(url).read()
-	text=nltk.clean_html(html)
-	return text
-
-def extract_data(soup):
-
-		data=soup.get_text()
-		return data 
 
 
 	
@@ -97,11 +78,11 @@ def extract_data(soup):
 
 if __name__=="__main__":
 	
-	date=["2014","01","janvier","14"]
-	route=["cdg","rba","paris","rabat"]
-	urlreq=urlformatting(route, date)
+	date=["2014","01","fevrier","14"]
+	route=["cdg","edi","paris","edimburg"]
+	#urlreq=urlformatting(route, date)
 	
-	scrapajax=scrapAjaxWebpage(urlreq)
+	scrapajax=scrapAjaxWebpage(route, date)
 	#scrapit=scrap(depart, arrival)
 	#data=extract_data(scrapit)
 	#text=clean_text(url)
