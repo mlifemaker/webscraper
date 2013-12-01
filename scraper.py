@@ -9,16 +9,28 @@ import jabba_webkit as jw
 import re
 
 
-web_page="http://skyscanner.fr/"
-pattern=re.compile('<div class="mainquote-price big">(.*)</div>')
+url_base="http://skyscanner.fr/"
+PatPrices=re.compile('<div class="mainquote-price big">(.*)</div>')
+PatFlights=re.compile('<span data-carrier-ids="TB">(.*)</span>')
+pattern=re.compile('<ul id="cbp-itineraries" class="day-list clearfix">(.*)</ul>')
 def scrapAjaxWebpage(url):
 	
 	html=(jw.get_page(url)).encode('ascii','ignore')
+	#results=re.findall(pattern, html)
 	with open("dataAjax.txt","w") as ajaxdata:
 		ajaxdata.write(html)
-	result=re.findall(pattern,html)
-	print "prices of this route:",result
-	return result
+	#results=""
+	#flights=[]
+	#prices=[]
+	#with open("dataAjax","r") as mydata:
+		#results=mydata.read()
+	prices=re.findall(PatPrices,html)
+	flights=re.findall(PatFlights,html)
+	
+	print "routes : %r prices: %s " % (flights, prices)
+	#print results
+	return (prices,flights)
+
 def scrap(depart,arrival):
 	url=url_base+"transport/vols/"+depart+"/"+arrival+"/"
 	print(url)
